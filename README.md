@@ -1,5 +1,5 @@
 # Research-data
-Charcoal and pollen datasets with Rscript used to reconstruct fire and vegetation histories in central Northwest Territories 
+Charcoal and pollen datasets with Rscript used to reconstruct Holocene fire and vegetation histories in central Northwest Territories 
 
 Lakes unofficial names : Emile, Izaac, Paradis, Saxon
 
